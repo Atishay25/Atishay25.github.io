@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Oreda</p>
+    <p></p>
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -21,7 +21,7 @@ Kon'nichiwa! watashi no namaeha atishay jain desu
 
 I am a third year undergrad studying [Computer Science and Engineering](https://www.cse.iitb.ac.in) at IIT Bombay. My hometown is Tikamgarh (Madhya Pradesh). Thinking about what to add here ....
 
-Kaizokou nari otokuda
+Kaizoku Ou Ni Naru Otokuda!
 
 
 
