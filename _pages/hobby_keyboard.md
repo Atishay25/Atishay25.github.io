@@ -1,0 +1,3 @@
+### Playing Synthesizer Keyboard
+
+Creating melodies, experimenting with sound, and losing myself in the rhythm. I like to play any random song or musical piece which I start liking and enjoy doing it so much. I mostly like playing some non-sad, item, old, evergreen, qawwali, fast rhythm, my childhood time, Op desi, cheerful, make you dance, make other also dance, touch you heart kind of songs. I wish if I could buy the KORG Cross2 keyboard and play it a lot with some damn op guy playing dholak along with me, and someone on drums/octapad giving beats, it would be such a fun and delight to me. 
