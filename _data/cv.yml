@@ -15,48 +15,62 @@
       institution: Indian Institute of Technology, Bombay
       year: 2021-present
       description:
-        - Computer Science and Engineering
+        - Major in Computer Science and Engineering
         - Minor in Machine Intelligence and Data Science
     - title: School
       institution: Pushpa English Medium School, Tikamgarh
       year: 2008-2019
       description:
-        - 10th - 95.8 %
+        - Grade - 95.8 %
 
 - title: Experience
   type: time_table
   contents:
-    - title: Department Academic Mentor (DAMP)
-      institution: CSE IIT-B
-      year: 2023-present
+    - title: Strats and Quant Intern
+      institution: Morgan Stanley
+      year: May'24 - Jul'24
       description:
-        - Among 32 candidates selected after extensive peer reviews, SoP and interviews out of 70+ applicants
-        - Working as mentor and contact point of 6 sophomore students to resolve their academic and personal queries
-    - title: Convener
-      institution: Web and Coding Club, IIT Bombay
-      year: 2022-23
+    - title: Department Academic Mentor (DAMP)
+      institution: Student Mentorship Program, IIT-B
+      year: May'23 - present
+      description:
+        - Among the 32 candidates selected after extensive peer reviews, SoP, and interviews out of 70+ applicants
+        - Appointed as mentor and contact point of 6 sophomore students to resolve their academic and personal queries
+        - In May 2024, became an ARP DAMP mentor
+    - title: Institute Web and Coding Convener
+      institution: Web and Coding Club, IIT-B
+      year: May'22 - May'23
       description:
         - Worked in a team of 8 to organize 40+ events catering to the programming interests of 10K+ Institute students
         - Framed Competitive Programming problems for SciComp-Blitz Technical Inter Hostel General Championship
         - Ideated and co-created a Project in Hello FOSS, an event to promote Open Source development in institute
     - title: Teaching Assistant (TA)
-      institution: IIT Bombay
-      year: 2022-23
+      institution: Mathematics Department, IIT-B
+      year: Oct'22 - Feb'23
       description:
-        - MA 109 (Calculus 1) under Prof. Sanjoy Pusti
-        - MA 111 (Calculus 2) under Prof. Niranjan Balachandran and Prof. Preeti Raman
+        - Calculus 1 (MA109) Prof. Sanjoy Pusti
+        - Calculus 2 (MA111) Prof. Niranjan Balachandran and Prof. Preeti Raman
+
+    - title: Teaching Assistant (TA)
+      institution: CSE Department, IIT-B
+      year: Aug'24 - Present
+      description:
+        - Digital Image Processing (CS663) Prof. Ajit Rajwade
 
     - title: Web Development and Technical Intern
       institution: IFP Petro
-      year: Dec'22-Jan-23
+      year: Dec'22 - Jan'23
       description:
     - title: Summer Intern 
       institution: Dr. Daniele Bernardini, TUM Germany
-      year: May'23-Jul'23
+      year: May'23 - Jul'23
 
 - title: Scholastic Acvievements
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - Awarded <b>AP</b> (Advanced Performer) grade in Artificial Intelligence and Machine Learning Lab
     - year: 2021
       items: 
         - All India Rank 104 in JEE Advanced 
@@ -64,23 +78,20 @@
     - year: 2020
       items: 
         - All India Rank 123 in KVPY
-    - year: 2023
-      items: 
-        - Awarded <b>AP</b> (Advanced Performer) grade in Artificial Intelligence and Machine Learning Lab
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Machine Learning
+   #   items: 
+   #     - Description 1.
+   #     - Description 2.
+    - title: Algorithms
+   #   items:
+   #     - Description 1.
+   #     - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Cricket, Playing Synthesizer, Anime etc
+    - <u>Hobbies:</u> Synthesizer, Anime, Cricket, Badminton
