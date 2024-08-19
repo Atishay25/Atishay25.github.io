@@ -1,6 +1,6 @@
 ### Anime
 
-Immersed in the world of anime, where every story is an adventure and every character, an inspiration. I am not a very hardcore anime watcher, I have watched only some very famous kind of animes only like 
+Immersed in the world of anime, where every story is an adventure and every character, an inspiration. I am not a very hardcore anime watcher, I have watched only some very famous kind of animes like 
 - One Piece
 - Attack on Titan
 - Death Note
