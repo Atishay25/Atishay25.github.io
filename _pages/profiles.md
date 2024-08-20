@@ -4,23 +4,23 @@ permalink: /hobbies/
 title: Hobbies
 description: Discover what keeps me inspired and engaged beyond the code
 nav: true
-nav_order: 6
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: h_synth.jpg
-    content: hobby_keyboard.md
-    image_circular: true
-    more_info: >
-      <p><center>H3 music room</center></p>
-  - align: left
     image: h_zori.jpg
     content: hobby_anime.md
     image_circular: true
     more_info: >
       <p><center>Baka Marimo</center></p>
+  - align: left
+    image: h_synth.jpg
+    content: hobby_keyboard.md
+    image_circular: true
+    more_info: >
+      <p><center>H3 music room</center></p>
   - align: right
     image: h_irctc.jpg
     content: hobby_railway.md

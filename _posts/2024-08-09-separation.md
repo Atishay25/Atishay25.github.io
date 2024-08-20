@@ -7,10 +7,10 @@ tags: World_Cinema
 categories: DE410
 related_posts: false
 featured: false
-thumbnail: assets/img/separation.png
+thumbnail: assets/img/sep.png
 ---
 <br>
-<div style="text-align:center"><img src="../assets/img/separation.jpg" /></div>
+<div style="text-align:center"><img src="https://hackmd.io/_uploads/S19RgkEcC.jpg" /></div>
 <br>
 
 "A Separation" is a film from Iranian cinema whose plot is about story of an Iranian middle class married couple named *Nader* (husband) and *Simin* (wife), who are unfortunately on the verge of having a divorce. The film is directed by **Asghar Farhadi**, a prominent filmmaker from Iranian cinema, and in this film he depicts various problems faced by middle-class families in a society. The film shows us complexities of family relationships by displaying issues in Nader and Simin’s relationship and the impact of their separation on their daughter, *Termeh*. The film also explores the responsibilities and sacrifices inherent in familial duties, particularly through Nader’s commitment to his elderly father.
@@ -19,7 +19,7 @@ The film starts with the decision of divorce being made between Simin, Nader and
 
 A very interesting point about the film which I liked is that we clearly know the origin of all the problems, that is the divorce decision. But after this origin, we can't really blame someone for the problems. It is like stuck in a loop, where almost every character is reasonable as well as guilty at the same time for the events occurred. For example, if we just think about finding what caused Razieh's child being killed, first thought might be Nader pushing her, but after going through many reasons, it boils down to the fact that why she was working so much even when pregnant without informing her husband, the answer is the need of money for paying her husband's debt, as they were poor. Now, we are stuck because we couldn't find a total bad person, and cannot just blame poverty for all of this after an extent. We can just say that there was a little bit of issue in this or that character, but they were not completely wrong.
 
-<div style="text-align:center"><img src="../assets/img/separation2.jpg"/></div>
+<div style="text-align:center"><img src="https://hackmd.io/_uploads/SJgHeJN9R.png"/></div>
 
 
 The character depiction is also done beautifully in the film - 
