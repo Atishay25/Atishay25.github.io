@@ -29,7 +29,6 @@
     - title: Strats and Quant Intern
       institution: Morgan Stanley
       year: May'24 - Jul'24
-      description:
     - title: Department Academic Mentor (DAMP)
       institution: Student Mentorship Program, IIT-B
       year: May'23 - present
@@ -60,24 +59,25 @@
     - title: Web Development and Technical Intern
       institution: IFP Petro
       year: Dec'22 - Jan'23
-      description:
     - title: Summer Intern 
       institution: Dr. Daniele Bernardini, TUM Germany
       year: May'23 - Jul'23
-
+    - title: R&D Project
+      institution: Prof. Ganesh Ramakrishnan, BharatGPT, IIT Bombay
+      year: Jan'24 - May'24
 - title: Scholastic Acvievements
   type: time_table
   contents:
     - year: 2023
       items: 
-        - Awarded <b>AP</b> (Advanced Performer) grade in Artificial Intelligence and Machine Learning Lab
+        - Awarded <b>AP</b> (Advanced Performer) grade in Artificial Intelligence and Machine Learning Lab for exceptional performance
     - year: 2021
       items: 
         - All India Rank 104 in JEE Advanced 
         - All India Rank 270 in JEE Mains
     - year: 2020
       items: 
-        - All India Rank 123 in KVPY
+        - All India Rank 123 in KVPY-SX
 
 - title: Academic Interests
   type: nested_list
@@ -87,6 +87,8 @@
    #     - Description 1.
    #     - Description 2.
     - title: Algorithms
+    - title: Quantitative Finance
+    - title: Software Development
    #   items:
    #     - Description 1.
    #     - Description 2.
@@ -94,4 +96,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Synthesizer, Anime, Cricket, Badminton
+    - <u><b>Hobbies</b></u> - Synthesizer, Anime, Cricket, Badminton
