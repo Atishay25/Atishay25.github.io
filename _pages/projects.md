@@ -2,14 +2,15 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of my projects
+description:
 nav: true
 nav_order: 2
-display_categories: [course, others]
-horizontal: false
+horizontal: true
+display_categories: ["Course Projects", "Technical Projects", "Reading Projects"]
 ---
 
 <!-- pages/projects.md -->
+
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -20,7 +21,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
@@ -41,7 +42,7 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
@@ -56,3 +57,4 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+

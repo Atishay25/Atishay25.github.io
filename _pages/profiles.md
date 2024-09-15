@@ -4,7 +4,7 @@ permalink: /hobbies/
 title: Hobbies
 description: Discover what keeps me inspired and engaged beyond the code
 nav: true
-nav_order: 4
+nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

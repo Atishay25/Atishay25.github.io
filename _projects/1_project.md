@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Image Caption Generation
-description: a project with a background image
-img: assets/img/12.jpg
+description: Winter in Data Science (2022-23)
+img: assets/img/img_caption.png
 importance: 1
-category: course
-related_publications: einstein1956investigations, einstein1950meaning
-link: https://github.com/
+category: "Technical Projects"
+related_publications: 
+link: https://github.com/Atishay25/WiDS-Image-Caption-Generation
 ---
 
 
